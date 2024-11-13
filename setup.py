@@ -1,3 +1,0 @@
-easyocr
-requests
-fuzzywuzzy
